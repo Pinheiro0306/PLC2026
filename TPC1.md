@@ -1,6 +1,6 @@
 ### TPC1
 # Expressão regular para apanhar Strings Binárias que nao contenham a substring "011"
-^1*(0+1)*0*$
+`^1*(0+1)*0*$`
 
 Explicação:
 Colocamos ^ para garantir que a validação começa no início
