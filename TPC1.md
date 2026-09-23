@@ -14,3 +14,5 @@
 - `101111` -> Rejeitada (contém "011")
 - `1101`   -> Aceite (válida)
 - `101010` -> Aceite (válida)
+
+<img width="800" height="391" alt="image" src="https://github.com/user-attachments/assets/f9cd6d02-a3b7-4124-9d2c-fa9b484edade" />
