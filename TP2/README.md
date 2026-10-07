@@ -1,7 +1,8 @@
 # TPC2 - Conversor de MarkDown para HTML
 
-**Autor:** João Pinheiro (A100089)
-**UC:** Processamento de Linguagens e Compiladores (PLC2026)
+- <img width="176" height="180" alt="image" src="https://github.com/user-attachments/assets/3819922b-6d5a-4bd9-a2a2-3a591171f460" />
+- **Nome:** João Afonso Peixoto Pinheiro
+- **ID:** A100089
 
 ## Descrição
 
