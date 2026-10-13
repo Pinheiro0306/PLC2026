@@ -4,9 +4,6 @@
 - **Nome:** João Afonso Peixoto Pinheiro
 - **ID:** A100089
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write('''# TPC3
-
 ## Descrição
 
 Pequeno analisador léxico em Python para uma linguagem de query, feito com o módulo `lex` da biblioteca `ply`. Este programa identifica e processa os diferentes tokens da linguagem definida:
